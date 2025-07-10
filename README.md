@@ -1,5 +1,7 @@
 # 🛰️ Post-Adiabatic Waveforms from Extreme Mass Ratio Inspirals in the Presence of Dark Matter
-
+If you use any part of this repository in your work, please cite the following paper:
+''Post-Adiabatic Waveforms from Extreme Mass Ratio Inspirals in the Presence of Dark Matter''
+(https://inspirehep.net/literature/2944129) 
 ## 👥 Authors:
 **Mostafizur Rahman**, **Takuya Takahashi**
 
